@@ -2,7 +2,7 @@
 
 This repository is just a "trial run" for making a professionally formatted project in Github. All it contains is a generic "Hello World" file in Python.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video - Google Drive](https://drive.google.com/file/d/1wkfLDF7v64Dd1Z1mGfl4eX6qKmkrY6_7/view?usp=sharing)
 
 # Development Environment
 
